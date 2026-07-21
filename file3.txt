@@ -1,0 +1,1 @@
+File 3 from git terminal
